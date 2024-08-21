@@ -141,14 +141,15 @@ Ein einfaches, aber leistungsfähiges To-Do-App-Projekt, das mit Flask (Backend)
 
 ## Projektstruktur
 
-project/
+```plaintext
+todo-app-project/
 │
 ├── backend/
-│   ├── app.py           # Hauptdatei für das Backend
-│   ├── config.py        # Konfigurationsdatei für Flask
-│   ├── models.py        # Datenbankmodelle für User und Tasks
-│   ├── routes.py        # Definition der API-Endpunkte
-│   └── migrations/      # Migrationsordner für die Datenbank
+│   ├── app.py               # Hauptdatei für das Backend
+│   ├── config.py            # Konfigurationsdatei für Flask
+│   ├── models.py            # Datenbankmodelle für User und Tasks
+│   ├── routes.py            # Definition der API-Endpunkte
+│   └── migrations/          # Migrationsordner für die Datenbank
 │
 ├── frontend/
 │   ├── src/
