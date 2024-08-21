@@ -11,8 +11,8 @@ Ein einfaches, aber leistungsfähiges To-Do-App-Projekt, das mit Flask (Backend)
   - [Frontend Installation](#frontend-installation)
 - [API-Dokumentation](#api-dokumentation)
 - [Projektstruktur](#projektstruktur)
-- [Screenshots](#screenshots)
 - [Mitwirken](#mitwirken)
+- [Quellen](#quellen)
 - [Lizenz](#lizenz)
 
 ## Features
@@ -166,6 +166,7 @@ todo-app-project/
 │
 └── README.md                  # Diese Dokumentation
 
+```
 
 
 ## Mitwirken
@@ -177,3 +178,19 @@ Beiträge zu diesem Projekt sind willkommen! Wenn Sie eine größere Änderung v
 3. **Committen Sie Ihre Änderungen** (`git commit -m 'Add some AmazingFeature'`)
 4. **Pushen Sie den Branch** (`git push origin feature/AmazingFeature`)
 5. **Öffnen Sie eine Pull-Request**
+
+
+## Quellen
+
+### Komponenten
+Die UI-Komponenten für das Projekt wurden von [Tailwind UI](https://tailwindui.com/components) übernommen.
+
+### Bildmaterial
+Das Bild für die Login-Seite stammt von [Freepik](https://de.freepik.com/vektoren-kostenlos/mobile-login-konzept-illustration_4957412.htm#fromView=image_search_similar&page=1&position=26&uuid=2c28de00-7883-43bf-bf1e-33e872011814).
+
+
+
+## Lizenz
+
+Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die [LICENSE](LICENSE)-Datei für Details.
+
